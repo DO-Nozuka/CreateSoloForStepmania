@@ -3,3 +3,22 @@
 ################################################################################
 
 /.vs
+/CreateSoloForStepmania/.vs/CreateSoloForStepmania/v15
+/CreateSoloForStepmania/obj/Debug
+*.tlog
+*.sln
+*.vcxproj
+*.user
+*.obj
+*.exe
+*.jpg
+*.log
+*.png
+*.bmp
+/CreateSoloForStepmania/bin/Debug
+/CreateSoloForStepmania/obj/Release
+/CreateSoloForStepmania/Properties
+/CreateSoloForStepmania/CreateSoloForStepmaniaForm.Designer.cs
+/CreateSoloForStepmania/CreateSoloForStepmaniaForm.cs
+/CreateSoloForStepmania/CreateSoloForStepmania.csproj
+/CreateSoloForStepmania/App.config
